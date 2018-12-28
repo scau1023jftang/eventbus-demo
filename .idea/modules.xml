@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/event-bus/event-bus.iml" filepath="$PROJECT_DIR$/event-bus/event-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eventbus-demo.iml" filepath="$PROJECT_DIR$/.idea/eventbus-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-model/observer-model.iml" filepath="$PROJECT_DIR$/observer-model/observer-model.iml" />
+    </modules>
+  </component>
+</project>
